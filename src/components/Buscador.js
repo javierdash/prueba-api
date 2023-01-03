@@ -2,7 +2,9 @@ import React from 'react'
 
 const Buscador = () => {
   return (
-    <div>Buscador</div>
+    <>
+    <input></input>
+    </>
   )
 }
 

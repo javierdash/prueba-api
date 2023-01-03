@@ -1,9 +1,8 @@
-import Buscador from "./components/Buscador"
-import {useState, useEffect} from "react"
+import Rutas from "./routes/Rutas"
 
 function App() {
   return (
-    <Buscador />
+    <Rutas />
   );
 }
 
